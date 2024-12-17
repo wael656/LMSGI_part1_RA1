@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+  <producte codi="001">
+    <nom>Samsung A56 5G</nom>
+    <descripcio>Smartphone amb pantalla de 5.9 polzades, càmera de 48MP i bateria de 5500 maH.</descripcio>
+    <preu moneda="EUR">499.99</preu>
+    <categoria>Electrònica</categoria>
+    <disponibilitat>En estoc</disponibilitat>
+    <imatge>https://www.google/url?samsungA575G.jpg</imatge>
+  </producte>
+
+  <producte codi="028">
+    <nom>Rellotge Intel·ligent</nom>
+    <descripcio>Rellotge intel·ligent amb monitoratge de salut, GPS i es pot conectar al smartphone</descripcio>
+    <preu moneda="EUR">149.99</preu>
+    <categoria>Accessoris</categoria>
+    <disponibilitat>Esgotat</disponibilitat>
+    <imatge>https://www.google.com/url?sa=iur.jpg<images>
+
+</botiga>
