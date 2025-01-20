@@ -1,0 +1,75 @@
+{
+    "pokemons": [
+      {
+        "id": 1,
+        "name": "Bulbasaur",
+        "types": ["Planta", "Verí"],
+        "weight": "6.9kg",
+        "height": "0.7m",
+        "stats": {
+          "speed": 3,
+          "strength": 3,
+          "precision": 4,
+          "resistance": 4,
+          "jump": 3
+        },
+        "movements": [
+          {
+            "name": "Làtic Soca",
+            "description": "Golpeja al enemic amb un làtic de plantes.",
+            "power": 45,
+            "contact": true
+          },
+          {
+            "name": "Drenadoras",
+            "description": "Planta una llavor en el enemic per absorbir vida cada turn.",
+            "power": 0,
+            "contact": false
+          }
+        ],
+        "image": "https://www.wikidex.net/wiki/Archivo:Bulbasaur.png",
+        "evolutions": [
+          {
+            "id": 2,
+            "level": 16
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Charmander",
+        "types": ["Foc"],
+        "weight": "8.5kg",
+        "height": "0.6m",
+        "stats": {
+          "speed": 4,
+          "strength": 3,
+          "precision": 3,
+          "resistance": 3,
+          "jump": 4
+        },
+        "movements": [
+          {
+            "name": "Llamarada",
+            "description": "Llença una potent flama al enemic.",
+            "power": 90,
+            "contact": false
+          },
+          {
+            "name": "Esgarrapada",
+            "description": "Ataca a l'enemic amb una esgarrapada.",
+            "power": 40,
+            "contact": true
+          }
+        ],
+        "image": "https://www.wikidex.net/wiki/Archivo:Charmander.png",
+        "evolutions": [
+          {
+            "id": 5,
+            "level": 16
+          }
+        ]
+      }
+    ]
+  }
+  
